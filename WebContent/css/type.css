@@ -1,0 +1,36 @@
+@charset "UTF-8";
+*{
+	margin:0px;
+	padding:0px;
+}
+#header{
+	position:relative;
+	width:90%;
+	height:150px;
+	background-color:#EEE9BF;
+	margin:0 auto;
+	text-align:center;
+}
+#tittle{
+	display:block;
+	padding-top:30px;
+}
+#main{
+	position:relative;
+}
+.box{
+	float:left;
+	padding-left:15px;
+	padding-top:10px;
+}
+.pic img{
+	width:200px;
+	height:auto;
+}
+.pic{
+	padding:10px;
+	border:1px solid #ccc;
+	border-radius:5px;
+	box-shadow:0 0 5px #ccc;
+}
+}
